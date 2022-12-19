@@ -15,14 +15,18 @@
 Create a new environment
 
 '''
+
 conda create -p venv python==3.9 -y
 conda activate venv/
+
 '''
 
 Config Git
 
 '''
+
 git config --global user.name
 git config --global user.email
+
 '''
 
